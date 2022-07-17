@@ -1,4 +1,4 @@
-# trade-application
+# Vue Starter Kit
 
 ## Project setup
 ```
